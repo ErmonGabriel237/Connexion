@@ -1,0 +1,4 @@
+@import url('./utils/variable.css');
+@import url('./utils/resets.css');
+@import url('./components/navbar.css');
+@import url('./pages/auth.css');

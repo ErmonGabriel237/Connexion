@@ -1,0 +1,14 @@
+/* Describing the vriables */
+:root {
+    --primary-color: #3498db;
+    --secondary-color: #2ecc71;
+    --text-color: #333;
+    --background-color: #f4f4f4;
+    --font-family: 'Arial', sans-serif;
+    --font-size: 16px;
+    --border-radius: 5px;
+    --box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    --transition: all 0.3s ease;
+    --navbar-height: 60px;
+    --btn-padding: 10px 20px;
+}
