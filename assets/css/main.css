@@ -2,3 +2,4 @@
 @import url('./utils/resets.css');
 @import url('./components/navbar.css');
 @import url('./pages/auth.css');
+@import url('./pages/index.css');

@@ -4,6 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Connexion - Register</title>
+    <link rel="stylesheet" href="../../assets/css/main.css">
 </head>
 <body>
     <div class="content">
@@ -26,7 +27,7 @@
                 <input type="password" name="" id="" placeholder="Confirmer Mot de Passe">
             </div>
             <input type="submit" value="S'enregistrer">
-            <p>vous-avez déjà un compte? <a href="./login.html">Se Connecter</a></p>
+            <p class="link">vous-avez déjà un compte? <a class="change" href="./login.html">Se Connecter</a></p>
         </form>
     </div>
 </body>

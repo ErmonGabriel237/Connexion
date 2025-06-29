@@ -4,6 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Connexion - Login</title>
+    <link rel="stylesheet" href="../../assets/css/main.css">
 </head>
 <body>
     <div class="content">
@@ -18,7 +19,7 @@
                 <input type="password" name="" id="" placeholder="Password">
             </div>
             <input type="submit" value="Se connecter">
-            <p>Vous n'avez pas un compte? <a href="./reg.html">créez-un</a></p>
+            <p class="link">Vous n'avez pas un compte? <a class="change" href="./reg.html">créez-un</a></p>
         </form>
     </div>
 </body>

@@ -6,11 +6,16 @@
 }
 
 body {
-    font-family: var(--font-family);
-    height: 100vh;
-    min-height: 100vh;
+    font-family: 'Poppins', sans-serif;
     background-color: var(--background-color);
     color: var(--text-color);
+    line-height: 1.6;
+    font-size: 16px;
+    overflow-x: hidden;
+    scroll-behavior: smooth;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    overflow-y: scroll;
 }
 
 a {
